@@ -77,15 +77,6 @@ name = "Email"
 url = "mailto:RGUHack@rgu.ac.uk"
 icon = "fa-regular fa-envelope"
 
-[[languages.en.params.subnodes]]
-name = "Github"
-url = "https://github.com/rguhack/RGUHack27"
-description = "The Official Repo for the event"
-
-[[languages.en.params.subnodes]]
-name = "Eventbrite"
-url = "https://lab.example.org"
-description = "Register to attend here"
 
 [markup]
   [markup.goldmark]

@@ -19,3 +19,5 @@ draft: false
 Getting to the campus is easy, either using the No. 1 or 2 Bus routes from Union St which is a 5-10 min walk from Aberdeen Train and Bus Station
 
 ### What do I need to bring?
+
+Our Comms & Engagement Lead Abigail has put together a list of essentials for the hack. Check it out [here](/posts/kit-list/)
