@@ -34,26 +34,41 @@ No Worries! A winning RGUHack team needs Designers, Presenters and Visionaries j
 
 
 #### committee@rguhack:~$ getent group .
-<!-- >[Profile:]\
->[Name: [Corey Gardner](Socials Link)]\
+
+>[Profile:]\
+>[Name: [Corey Gardner](https://www.linkedin.com/in/corey-gardner-4b92a5195/)]\
 >[Comittee Position: Vice President]\
->[Degree: --]\
->[Interests: -- ]\ -->
+>[Degree: MSc Computing Science (4th Year)]\
 
 >[Profile:]\
 >[Name: [Dovydas Simkus](https://www.linkedin.com/in/simkusdovydas/)]\
 >[Comittee Position: Treasurer]
 >[Degree: BSc Computing Science (4th Year)]\
->[Interests: Board Games, Music, Cooking, Servers]\
 
 >[Profile:]\
 >[Name: [Abigail Smith](https://www.linkedin.com/in/abigail-smith-582265293/)]\
 >[Comittee Position: Communcation & Engagement Lead]
 >[Degree: BSc Computing Science (4th Year)]\
->[Interests: Data Science & Visualisation, Machine Learning, Computer Vision, Pedagogy]\
 
+>[Profile:]\
+>[Name: [Abrar Zweit](https://www.linkedin.com/in/abrar-zweit-28b639310/)]\
+>[Comittee Position: Secretery]
+>[Degree: BSc Computing and Creative Design (3rd Year)]\
 
-#### socet@rguhack:~$ getent group .
+>[Profile:]\
+>[Name: [Zoe Affleck](https://www.linkedin.com/in/zoe-affleck-37750a33a/)]\
+>[Comittee Position: Events Secretery]
+>[Degree: BSc Computing and Creative Design (3rd Year)]\
+
+>[Profile (Reps):]\
+>[Name: [Joshua Newton](https://www.linkedin.com/in/joshuanewtoncs/)]\
+>[Name: [Nikki Tluczek](https://www.linkedin.com/in/nikolatluczek/)]\
+>[Name: [Joao Neto Sampaio](https://www.linkedin.com/in/jo%C3%A3o-tom%C3%A1s-neto-sampaio-0073bb293/)]\
+>[Name: [Janusz Krakowiak](https://www.linkedin.com/in/janusz-k-0a8b44365/)]\
+
+### Are you a student at RGU and interested in getting involved with the committee next year?
+We'd love to hear from you... drop us a email [compsoc@rguunion.co.uk](mailto:compsoc@rguunion.co.uk)
+<!-- #### socet@rguhack:~$ getent group .
 
 >[Profile:]\
 >[Names: Ross McLean]\
@@ -63,4 +78,4 @@ No Worries! A winning RGUHack team needs Designers, Presenters and Visionaries j
 >[Profile:]\
 >[Names: Shona Clark]\
 >[Real Job: School Administration Team Lead ]\
->[Hack Position: School Liason Lead]\
+>[Hack Position: School Liason Lead]\ -->
