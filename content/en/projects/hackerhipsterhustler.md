@@ -5,16 +5,8 @@ description: "Are you a Hacker Hipster or Hustler? Lets find out"
 icon: "fa-solid fa-id-card-clip"
 accent: "green"
 status: "active"
-# projectUrl: "#"
-draft: true
+projectUrl: "/posts/hackerhipsterhustler"
+draft: false
 ---
 
-You dont need to be a wizard of a full stack developer at the hack
-
-Hackers
-
-
-Hipters
-
-
-Hustlers
+<!-- This should never render as it redirects to about.md -->
