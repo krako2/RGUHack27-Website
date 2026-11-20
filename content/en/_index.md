@@ -1,10 +1,6 @@
 ---
 title: "Home"
-description: "Rewired theme demo."
+description: "RGUHack27 - The North of Scotlands Largest Hackathon"
 ---
 
-# Rewired
-
-A dark, minimal, terminal-inspired Hugo theme.
-
-This demo tests the homepage, navigation, blog, projects, taxonomies, and base styles.
+<img src="/rguhack_logo_vector_dark.svg">
